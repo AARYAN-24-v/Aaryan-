@@ -1,0 +1,14 @@
+/* Basic styling for Aaryan's site */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  padding: 40px 0;
+  color: #004aad;
+}
